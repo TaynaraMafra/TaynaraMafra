@@ -27,7 +27,7 @@
 ### Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/emerson-jun"_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a> 
+  <a href="https://www.linkedin.com/in/taynara-piloneto-mafra-940a70244/"_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a> 
   <a href="mailto:emersonnjunior2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="35" target="_blank"></a>
   <a href="https://www.instagram.com/erminkkj/profilecard/?igsh=MTJqaW80bjNhMjQyZQ==" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   
